@@ -11,5 +11,6 @@ namespace WebApplication1.Models
     int a=x;
     int b=y
        return a+y;
+       
     }
 }
