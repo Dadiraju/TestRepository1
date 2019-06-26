@@ -5,9 +5,11 @@ using System.Web;
 
 namespace WebApplication1.Models
 {
-    public class Addition{
+    public class Employee{
     public int addition(int x,int y
     {
-       return x+y;
+    int a=x;
+    int b=y
+       return a+y;
     }
 }
